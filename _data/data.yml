@@ -3,12 +3,12 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Yanglin Zhang
+    tagline: Cyber Security
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,7 +16,7 @@ sidebar:
     phone: 134 150 10177
     timezone: Shanghai Timezone
     citizenship:
-    website: arlin.tech #do not add http://
+    website: www.arlin.tech #do not add http://
     linkedin: Yanglin Zhang
     xing:
     github: Yangl1n
@@ -36,9 +36,6 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
-
-        - idiom: 
           level: Professional
 
     interests:
@@ -65,9 +62,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BSc in Mathematics with Computer Science
+        university: Guangdong Technion Israel Institute of Technology
+        time: 2020 - 2024
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,9 +73,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in Material Science and Engineering
+        university: Guangdong Technion Israel Institute of Technology
+        time: 2019 - 2020
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
