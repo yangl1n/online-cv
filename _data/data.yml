@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: arlinzhang(at)163.com
-    phone: 134 150 10177
+    phone:
     timezone: Shanghai Timezone
     citizenship:
     website: www.arlin.tech #do not add http://
@@ -120,9 +120,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Awarded First Class Chancellor's Scholarship 2019
+        link: "#"
+        tagline: 
 
       - title: DevStudio
         link: "#"
