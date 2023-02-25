@@ -114,31 +114,29 @@ experiences:
         company: GTIIT
         details: 
 projects:
-    title: Projects
+    title: Awards
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
       - title: Awarded First Class Chancellor's Scholarship 2019
         link: "#"
         tagline: 
 
-      - title: DevStudio
+      - title: Awarded First Class Chancellor's Scholarship (Top 4) for 2019/2020 Academic Year
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: 
 
-      - title: Tempo
+      - title: Awarded First Class Chancellor's Scholarship (Top 6) for 2020/2021 Academic Year
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: 2021-2 round of X-Culture project and receive the best team award
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: 
 
-      - title: Delta
+      - title: Outstanding contribution to peer tutor program for 2020/2021 Academic Year
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: 
 
 
 
