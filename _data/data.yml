@@ -17,7 +17,7 @@ sidebar:
     timezone: Shanghai Timezone
     citizenship:
     website: www.arlin.tech #do not add http://
-    linkedin: https://www.linkedin.com/in/yanglin-zhang-395905199/
+    linkedin: 
     xing:
     github: Yangl1n
     telegram: # add your nickname without '@' sign
@@ -87,43 +87,22 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - role: Remote Developer • Software Development • VITALERTER
+        time: Nov. 2021 - June. 2022
+        company: VITALERTER
+        details: 
+      - role: Data Analysis • ERP Department • Tetro
+        time: Aug. 2021 - Oct. 2021
+        company: Tetro
+        details: 
+      - role: Student Assistant • IT Department
+        time: Sept. 2020 - Present
+        company: GTIIT
+        details: 
+      - role: Student Assistant • Chancellor Office • GTIIT
+        time: Sept. 2019 - Jan. 2020
+        company: GTIIT
+        details: 
 projects:
     title: Projects
     intro: >
