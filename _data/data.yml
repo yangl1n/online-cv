@@ -53,12 +53,22 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      During my college years, I worked as a student assistant in the IT
+      department of my university. This role helped me learn a lot about
+      various IT systems and how they function. I gained experience in 
+      working with network formation and management, which gave me 
+      valuable insights into the practical aspects of IT.
+      In the summer after my second year, I completed an internship 
+      in the ERP department of a manufacturing company. This gave 
+      me the opportunity to understand the entire process of the 
+      company's operations and how the information center of the 
+      factory works. I was exposed to a variety of tasks, including 
+      data analysis, system maintenance, and user support.
+      Through my experiences in both the university IT department and 
+      the manufacturing company, I have developed a strong passion for
+      IT and its application in the real world. I am confident that 
+      my knowledge and skills will enable me to contribute meaningfully
+      to any organization that values technology and innovation.
 education:
     title: Education
     info:
@@ -87,11 +97,11 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Remote Developer • Software Development • VITALERTER
+      - role: Remote Developer • Software Development
         time: Nov. 2021 - June. 2022
         company: VITALERTER
         details: 
-      - role: Data Analysis • ERP Department • Tetro
+      - role: Data Analysis • ERP Department
         time: Aug. 2021 - Oct. 2021
         company: Tetro
         details: 
@@ -99,7 +109,7 @@ experiences:
         time: Sept. 2020 - Present
         company: GTIIT
         details: 
-      - role: Student Assistant • Chancellor Office • GTIIT
+      - role: Student Assistant • Chancellor Office
         time: Sept. 2019 - Jan. 2020
         company: GTIIT
         details: 
